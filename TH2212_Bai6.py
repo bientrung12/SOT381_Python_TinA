@@ -1,7 +1,7 @@
 n=int(input("Nhập số lượng bài hát: "))
 dsBaiHat=[]
 for i in range(n):
-  tenBai=input("Tên bài thứ {i+1}")
+  tenBai=input("Tên bài thứ {i}")
   dsBaiHat. append (tenBai)
 
 for i in range(n):
